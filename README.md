@@ -22,11 +22,11 @@ To run this project locally, follow these steps:
 
 ## Technologies Used
 
--React: A JavaScript library for building user interfaces.
--Vite: to initialize the react app.
--React Toastify: A notification library for React.
--Tailwind CSS: A utility-first CSS framework for quickly building custom designs.
--UUID: A library for generating unique identifiers.
+- React: A JavaScript library for building user interfaces.
+- Vite: to initialize the react app.
+- React Toastify: A notification library for React.
+- Tailwind CSS: A utility-first CSS framework for quickly building custom designs.
+- UUID: A library for generating unique identifiers.
 
 ## Local Storage
 
